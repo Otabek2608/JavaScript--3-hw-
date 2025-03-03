@@ -28,4 +28,4 @@ if (isNaN(son1) || isNaN(son2)) {
     alert(`${son1} ning ${son2} -darajasi: ${natija}`);
 }
 
-
+ 
